@@ -1,0 +1,39 @@
+.blender{
+    border: 1px solid black;
+}
+.j{
+    border: 1px solid black;
+    margin-left: 34px;
+    
+}
+.wm{
+    border: 1px solid black;
+    margin-left: 34px;
+    
+}
+.tv{
+    border: 1px solid black;
+    margin-left: 34px;
+    
+}
+.mwo{
+    border: 1px solid black;
+    margin-left: 34px;
+    
+}
+tr>th{
+    border: 1px solid black;
+    padding: 3px 7px;
+}
+#table1>td{
+    border: 1px solid black;
+    padding: 3px 7px;
+}
+#table2>td{
+    border: 1px solid black;
+    padding: 3px 7px;
+}
+#table3>td{
+    border: 1px solid black;
+    padding: 3px 7px;
+}
